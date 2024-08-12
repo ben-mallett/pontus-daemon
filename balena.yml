@@ -1,0 +1,6 @@
+data:
+  applicationConfigVariables:
+    - RESIN_HOST_CONFIG_start_x: 1
+    - RESIN_HOST_CONFIG_gpu_mem_256: 192
+    - RESIN_HOST_CONFIG_gpu_mem_512: 256
+    - RESIN_HOST_CONFIG_gpu_mem_1024: 448
